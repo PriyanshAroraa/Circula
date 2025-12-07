@@ -15,7 +15,7 @@ git push
 3. Vercel auto-detects Vite settings ✅
 4. Add environment variables (see below)
 5. Click "Deploy"
-
+    
 ### 3. Add Environment Variables
 In Vercel Dashboard → Settings → Environment Variables:
 
