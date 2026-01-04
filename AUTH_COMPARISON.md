@@ -11,7 +11,7 @@
 | **Setup Complexity** | ⭐⭐ Easy | ⭐⭐⭐ Medium | ⭐⭐⭐⭐ Complex |
 | **Multi-device Sync** | ✅ Native | ✅ Native | ❌ Manual |
 | **Data Privacy** | ✅ RLS | ⚠️ Rules | ⚠️ Manual |
-| **Cost at Scale** | 💰💰 Moderate | 💰💰💰 Expensive | 💰 Self-hosted |
+| **Cost at Scale** | 💰💰 Moderate | 💰💰 💰 Expensive | 💰 Self-hosted |
 
 ---
 
